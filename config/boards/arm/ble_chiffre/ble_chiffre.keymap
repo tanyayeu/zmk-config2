@@ -145,7 +145,7 @@
     &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp N6 &kp N7 &kp N8 &kp N9 &kp N0
     &kp CAPS &trans &kp GRAVE &kp QMARK &kp TILDE &trans &kp MINUS &kp EQUAL &kp PIPE &kp SQT
     &trans &none &trans &trans &trans &none &trans &trans &kp DOT &kp BSLH
-    &none &trans &trans &kp RET
+    &none &trans &kp RET &kp RET
             >;
         };
 
